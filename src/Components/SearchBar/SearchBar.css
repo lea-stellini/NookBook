@@ -1,0 +1,39 @@
+.SearchBar{
+    border-radius: 25px;
+    width: 300px;
+    height: auto;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    border: solid 1px burlywood;
+}
+
+.SearchBar input, .SearchBar button{
+    border: none;
+    background-color: whitesmoke;
+}
+
+.SearchBar input{
+    padding-left: 10px;
+    width: 200px;
+    border-radius: 25px;
+}
+
+.SearchBar button{
+    padding-top: .5em;
+    color:burlywood;
+    cursor: pointer;
+}
+
+.SearchBar button:hover{
+    color: rgb(226, 168, 93);
+}
+
+.SearchBar input:focus {
+    outline: none;
+}
+
+.search{
+    width: auto;
+    height: 35px;
+}
