@@ -2,7 +2,6 @@ import React from "react";
 import './Profil.css'; 
 import charlise from './charlise.png';
 
-
 export class Profil extends React.Component {
 
     render() {
