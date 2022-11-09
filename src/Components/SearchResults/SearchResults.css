@@ -1,0 +1,10 @@
+.SearchResults{
+    width: 60%;
+    height: 600px;
+    margin: auto;
+    overflow: scroll;
+}
+
+.Search h1{
+    text-align: center;
+}
