@@ -1,5 +1,5 @@
 .SearchResults{
-    width: 60%;
+    width: 50%;
     height: 600px;
     margin: auto;
     overflow: scroll;
@@ -7,4 +7,10 @@
 
 .Search h1{
     text-align: center;
+}
+
+@media screen and (max-width:900px){
+    .SearchResults{
+        width: 90%;
+    }
 }
