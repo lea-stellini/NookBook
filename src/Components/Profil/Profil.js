@@ -7,7 +7,7 @@ export class Profil extends React.Component {
     render() {
         return(
             <div className="Profil">
-                <h2 className="title">Passport</h2>
+                
                 <div className="passport">
                     <img src={charlise} alt="Charlise" className="charlise"/>
                     <div>
