@@ -1,6 +1,8 @@
 .title{
     text-align: center;
     padding-top: 10px;
+    font-family: 'Alice', serif;
+    color: maroon;
 }
 
 .Profil{
@@ -16,7 +18,8 @@
 .passport{
     display: flex;
     justify-content: center;
-    margin-top: -15px ;
+    margin-top: -15px;
+    
 }
 
 .firstline{
