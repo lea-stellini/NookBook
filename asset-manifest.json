@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/NookBook/static/css/main.64b4af3f.css",
-    "main.js": "/NookBook/static/js/main.c10ef4ba.js",
+    "main.css": "/NookBook/static/css/main.c29f4455.css",
+    "main.js": "/NookBook/static/js/main.8a888431.js",
     "static/js/787.0e8bfb12.chunk.js": "/NookBook/static/js/787.0e8bfb12.chunk.js",
     "static/media/background.jpg": "/NookBook/static/media/background.a2c6da171f6feab01085.jpg",
     "static/media/charlise.png": "/NookBook/static/media/charlise.673dceddb33b51f2132f.png",
     "static/media/logo.png": "/NookBook/static/media/logo.45a48283d0f5d7a6462f.png",
     "index.html": "/NookBook/index.html",
-    "main.64b4af3f.css.map": "/NookBook/static/css/main.64b4af3f.css.map",
-    "main.c10ef4ba.js.map": "/NookBook/static/js/main.c10ef4ba.js.map",
+    "main.c29f4455.css.map": "/NookBook/static/css/main.c29f4455.css.map",
+    "main.8a888431.js.map": "/NookBook/static/js/main.8a888431.js.map",
     "787.0e8bfb12.chunk.js.map": "/NookBook/static/js/787.0e8bfb12.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.64b4af3f.css",
-    "static/js/main.c10ef4ba.js"
+    "static/css/main.c29f4455.css",
+    "static/js/main.8a888431.js"
   ]
 }
