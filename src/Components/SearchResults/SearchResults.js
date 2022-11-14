@@ -1,6 +1,6 @@
 import React from 'react';
 import './SearchResults.css';
-import { ProfilList } from '../ProfilList/ProfilList';
+import  {ProfilList} from '../ProfilList/ProfilList';
 
 export class SearchResults extends React.Component {
     render(){
